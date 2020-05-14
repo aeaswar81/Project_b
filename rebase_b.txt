@@ -1,1 +1,2 @@
 rebase B file
+feature 2
